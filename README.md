@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 👨‍💻 Some languages and tools I enjoy working with include Javascript, ReactJs, MongoDB, DS and Algorith,s
 - 📫 Find me around the web:
     -    :office: [LinkedIn](https://www.linkedin.com/in/bhaskar-kumar-baa7301a1/)
-    
-            -                   ![](https://komarev.com/ghpvc/?username=bhaskarkrp&color=green)
+    -    ![](https://komarev.com/ghpvc/?username=bhaskarkrp&color=green)
