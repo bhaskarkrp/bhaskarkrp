@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-- ⚡ I'm a software engineer who is passionate about making websites Creatively solve Data Structure and Algorithms Problem.
-- 👨‍💻 Some languages and tools I enjoy working with include Javascript, ReactJs, MongoDB, DS and Algorith,s
+- ⚡ I'm a software engineer who is passionate about making websites, Creatively solve Data Structure and Algorithms Problem.
+- 👨‍💻 Some languages and tools I enjoy working with include Javascript, ReactJs, MongoDB, DS and Algorithms
 - 📫 Find me around the web:
     -    :office: [LinkedIn](https://www.linkedin.com/in/bhaskar-kumar-baa7301a1/)
     -    ![](https://komarev.com/ghpvc/?username=bhaskarkrp&color=green)
