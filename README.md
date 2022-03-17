@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi 👋, I'm Bhaskar Kumar👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Bhaskar 👨‍💻</h1>
 <h3 align="center">I'm a Mern stack Web developer who is passionate about making websites, Creatively solve Data Structure and Algorithms Problem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarkrp&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkrp" /> </p>
