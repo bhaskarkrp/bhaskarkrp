@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bhaskarkumar0022@gmail.com**
 
-- ⚡ Fun fact **I am a admire Joker.**
+- ⚡ Fun fact **I admire Joker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
