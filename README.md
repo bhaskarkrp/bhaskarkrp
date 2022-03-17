@@ -5,16 +5,22 @@
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi Devs 👋, I'm Bhaskar 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Bhaskar Kumar👨‍💻</h1>
 <h3 align="center">I'm a Mern stack Web developer who is passionate about making websites, Creatively solve Data Structure and Algorithms Problem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarkrp&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkrp" /> </p>
 
+- 🔭 I’m currently working on **React Projects**
+
+- 💬 Ask me about **Mern Stack!**
+
 - 📫 How to reach me **bhaskarkumar0022@gmail.com**
+
+- ⚡ Fun fact **I am a admire Joker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/bhaskarpanjiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bhaskarpanjiyar" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/BhaskarPanjiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bhaskarpanjiyar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhaskar-kumar-baa7301a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhaskar-kumar-baa7301a1/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/bhaskarkumar0022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhaskarkumar0022/" height="30" width="40" /></a>
 </p>
