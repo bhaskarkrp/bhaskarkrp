@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">Hi Devs👋, I'm Bhaskar 👨‍💻</h1>
-<h3 align="center">I'm a Mern stack Web developer who is passionate about making websites, Creatively solve Data Structure and Algorithms Problem.</h3>
+<h3 align="center"> I am a Mern-stack web developer from India. Love building and learning new things.I am interested in exploring the fields of Software Engineering, New frameworks, and Web development, and I am open to opportunities for the same. I am passionate about Creatively solve Data Structure and Algorithms Problem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarkrp&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkrp" /> </p>
 
