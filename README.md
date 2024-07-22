@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarkrp&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkrp" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Next.JS Projects**
 
 - 💬 Ask me about **Mern Stack!**
 
