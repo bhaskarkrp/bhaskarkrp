@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarkrp&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarkrp" /> </p>
 
-- 🔭 I’m currently working on **Next.JS Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 💬 Ask me about **Mern Stack!**
+- 💬 Chit-chat about **Software Engineering!**
 
-- 📫 How to reach me **bhaskarkumar0022@gmail.com**
+- 📫 Reach me at **bhaskarkumar0022@gmail.com**
 
 - Checkout the work - https://bhaskarkumar.vercel.app
 
