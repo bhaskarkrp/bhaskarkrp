@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 💬 Chit-chat about **Software Engineering!**
+- 💬 Let's chat about **Software Engineering and Projects**
 
 - 📫 Reach me at **bhaskarkumar0022@gmail.com**
 
